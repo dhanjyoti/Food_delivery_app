@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RestaurantLogin() {
+export default function RestotLogin() {
   return (
     <div className="flex flex-col items-center">
         <h3>Login Component</h3>
