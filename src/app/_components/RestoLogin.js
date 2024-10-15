@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function RestotLogin() {
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col gap-3 items-center">
         <h3>Login Component</h3>
         <div>
             <input type="text" placeholder='Enter your email' className="border border-gray-700" />
